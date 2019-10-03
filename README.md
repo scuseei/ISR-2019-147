@@ -10,4 +10,4 @@ The offline geolocation trajectory data can be visualized (again, we can only di
 ![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/Offline%20Trajectory.gif)
 
 ### More Interpretable Instances 
-We demonstrate how the explainability system works at the observational level. In addition to the instances provided in the main text, we offer more instances here. 
+We demonstrate how the explainability system works at the observational level. In addition to the instances provided in the main text, more instances are offered here. 
