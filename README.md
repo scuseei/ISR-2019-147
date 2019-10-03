@@ -6,5 +6,5 @@ The raw dataset is made up of three components. For each individual, we observe 
 The online browsing trajectory data looks like this (subject to the NDA, we can only disclose a snippet of data):
 ![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/Online%20Trajectory.png)
 
-The offline geolocation trajectory data can be visualized (again, subject to the NDA, we can only disclose a snippet of data):
+The offline geolocation trajectory data can be visualized (again, we can only disclose sample data):
 ![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/Offline%20Trajectory.gif)
