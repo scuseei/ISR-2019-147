@@ -10,6 +10,6 @@ The offline geolocation trajectory data can be visualized (again, we can only di
 ![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/Offline%20Trajectory.gif)
 
 ### More Interpretable Instances 
-We demonstrate how the explainability system works at the observational level. In addition to the instances provided in the main text, more instances are offered here. In the following 10 figures, we show the interpretability of the prediction results using the local SHAP. The output in these figures is the probability of a consumer going online shopping in the short-term future.
+We demonstrate how the explainability system works at the observational level. In addition to the instances provided in the main text, more instances are offered here. In the following 5 figures, we show the interpretability of the prediction results using the local SHAP. The output in these figures is the probability of a consumer going online shopping in the short-term future.
 
-In the following 10 figures, we show the interpretability of the prediction results using the local SHAP. The output in these figures is the probability of a consumer passing by a shopping mall in the short-term future.
+In the following 5 figures, we show the interpretability of the prediction results using the local SHAP. The output in these figures is the probability of a consumer passing by a shopping mall in the short-term future.
