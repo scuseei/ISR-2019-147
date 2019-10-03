@@ -6,6 +6,7 @@ The raw dataset is made up of three components. For each individual, we observe 
 The online browsing trajectory data looks like this (subject to the NDA, we can only disclose a snippet of data):
 ![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/Online%20Trajectory.png)
 
+
 The offline geolocation trajectory data can be visualized (again, we can only disclose sample data):
 ![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/Offline%20Trajectory.gif)
 
@@ -20,3 +21,9 @@ We demonstrate how the explainability system works at the observational level. I
 
 
 In the following 5 figures, we show the interpretability of the prediction results using the local SHAP. The output in these figures is the probability of a consumer passing by a shopping mall in the short-term future.
+
+![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/6.JPG)
+![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/7.JPG)
+![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/8.JPG)
+![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/9.JPG)
+![Sample Data](https://github.com/scuseei/ISR-2019-147/blob/master/10.JPG)
